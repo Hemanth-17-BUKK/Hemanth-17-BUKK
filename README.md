@@ -1,61 +1,74 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Hemanth Bukkuru</h1>
 
-<div align="center">
+<h3 align="center">Cloud & DevOps Engineer</h3>
 
-<a href="https://www.linkedin.com/in/hemanth-bukkuru-109299354/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="mailto:hemanthbukkuru@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;Building+Multi-Cloud+Infrastructure+Projects;Learning+DevOps+Through+Hands-On+Engineering;Automation+%7C+Containers+%7C+CI%2FCD+%7C+Cloud+Networking" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-# ⚡ Engineering Mindset
+## 🚀 About Me
 
-<div align="center">
-
-```text
-Learn Deeply.
-Build Consistently.
-Automate Everything.
-```
-
-</div>
+- ☁️ Cloud & DevOps Engineer passionate about building scalable infrastructure and automation solutions
+- 🌍 Currently learning and working on **Multi-Cloud & DevOps**
+- 🔧 Focused on **AWS, GCP, Kubernetes, Terraform and CI/CD**
+- 📚 Building production-oriented cloud engineering notes and real-world projects
+- 🎯 Interested in Cloud Infrastructure, Platform Engineering and Kubernetes Ecosystem
+- ⚡ Strong interest in automation, cloud networking and container orchestration
 
 ---
 
-# 🚀 Current Journey
+## 🏅 Certifications
 
-```mermaid
-graph LR
-A[Linux] --> B[AWS]
-B --> C[GCP]
-C --> D[Docker]
-D --> E[Kubernetes]
-E --> F[Terraform]
-F --> G[CI/CD]
-G --> H[GitOps]
-H --> I[Platform Engineering]
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
 ---
 
-# 💡 Profile Views
+## 🛠️ Tech Stack
 
-<div align="center">
+### ☁️ Cloud Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Hemanth-17-BUKK&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+### ⚙️ DevOps & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,bash,git,github,linux" />
+</p>
 
-</div>
+### 💻 Programming & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### 🚀 GitOps & Container Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
 
 ---
 
-<div align="center">
+## 📌 Current Focus
 
-### ☁️ Building Cloud Infrastructure One Commit at a Time
+```yaml
+Learning:
+  - AWS Advanced Networking
+  - Kubernetes Networking
+  - Multi-Cloud Architecture
+  - Terraform Infrastructure Automation
+  - GitOps & ArgoCD
+  - CI/CD Pipelines
+  - Platform Engineering Concepts
 
-</div>
+Building:
+  - AWS Cloud Engineering Notes
+  - GCP Engineering Notes
+  - Kubernetes Deep Dive Repository
+  - Terraform Infrastructure Projects
+  - DevOps Real-Time Projects
