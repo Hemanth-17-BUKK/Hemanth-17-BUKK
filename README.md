@@ -30,8 +30,7 @@
 
 <td align="center" width="350">
 
-<img src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="130"/>
-
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.1a06c0f5c2d4a6f5d5c2cd508c731f17c2d7f70f.png" width="130"/>
 <br><br>
 
 <b>AWS Certified Developer – Associate</b>
@@ -42,7 +41,7 @@
 
 <br><br>
 
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.1a06c0f5c2d4a6f5d5c2cd508c731f17c2d7f70f.png" width="130"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=260&height=30&lines=AWS+Development;Serverless+Applications;CI%2FCD+with+AWS;IAM+%26+Cloud+Security" />
 
 </td>
 
