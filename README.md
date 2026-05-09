@@ -42,7 +42,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=260&height=30&lines=AWS+Development;Serverless+Applications;CI%2FCD+with+AWS;IAM+%26+Cloud+Security" />
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.1a06c0f5c2d4a6f5d5c2cd508c731f17c2d7f70f.png" width="130"/>
 
 </td>
 
