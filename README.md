@@ -187,15 +187,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hemanth-bukkuru-109299354/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="70" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:hemanthbukkuru@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="70" />
-</a>
+<a href="https://www.linkedin.com/in/hemanth-bukkuru-109299354/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:hemanthbukkuru@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="70" /></a>
 
 </div>
 
@@ -208,4 +200,3 @@
 </div>
 
 ---
-
