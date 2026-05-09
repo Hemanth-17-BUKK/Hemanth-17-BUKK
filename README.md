@@ -66,9 +66,3 @@ Learning:
   - CI/CD Pipelines
   - Platform Engineering Concepts
 
-Building:
-  - AWS Cloud Engineering Notes
-  - GCP Engineering Notes
-  - Kubernetes Deep Dive Repository
-  - Terraform Infrastructure Projects
-  - DevOps Real-Time Projects
