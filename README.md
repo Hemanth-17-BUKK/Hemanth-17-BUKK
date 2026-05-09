@@ -25,54 +25,42 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.credly.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <table>
 <tr>
 
-<td align="center" width="320">
+<td align="center" width="350">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9ja2d6YWFwM2FocXl4NXdjMjl4bG9mOHQxM2dtMjlwbmM2a2d3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="80"/>
+<img src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="130"/>
+
+<br><br>
+
+<b>AWS Certified Developer – Associate</b>
 
 <br>
-
-### AWS Certified Developer – Associate
 
 <sub>DVA-C02</sub>
 
 <br><br>
 
-☁️ AWS Development • Serverless • SDKs • CI/CD • Security
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=260&height=30&lines=AWS+Development;Serverless+Applications;CI%2FCD+with+AWS;IAM+%26+Cloud+Security" />
 
 </td>
 
-<td align="center" width="320">
+<td align="center" width="350">
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/>
+<img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="130"/>
+
+<br><br>
+
+<b>Google Cloud Certified</b>
 
 <br>
-
-### Google Cloud Certified
 
 <sub>Associate Cloud Engineer</sub>
 
 <br><br>
 
-🌍 GCP Infrastructure • IAM • Networking • Compute Engine
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=4285F4&center=true&vCenter=true&width=260&height=30&lines=GCP+Infrastructure;Cloud+Networking;IAM+%26+Compute+Engine;Multi-Cloud+Engineering" />
 
 </td>
 
