@@ -195,7 +195,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=Open+to+Cloud+%26+DevOps+Collaborations;Building+Multi-Cloud+Engineering+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=Open+for+Professional+Connections;Cloud+%26+DevOps+Enthusiast;Let's+Build+Something+Amazing+Together" />
 
 </div>
 
