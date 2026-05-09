@@ -30,7 +30,7 @@
 
 <td align="center" width="350">
 
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.1a06c0f5c2d4a6f5d5c2cd508c731f17c2d7f70f.png" width="130"/>
+<img src="./aws-dva-c02.png" width="130"/>
 <br><br>
 
 <b>AWS Certified Developer – Associate</b>
