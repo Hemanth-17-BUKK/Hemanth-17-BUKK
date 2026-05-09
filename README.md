@@ -183,15 +183,29 @@
 
 ---
 
-## 📌 Current Focus
+## 🌐 Let's Connect
 
-```yaml
-Learning:
-  - AWS Advanced Networking
-  - Kubernetes Networking
-  - Multi-Cloud Architecture
-  - Terraform Infrastructure Automation
-  - GitOps & ArgoCD
-  - CI/CD Pipelines
-  - Platform Engineering Concepts
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hemanth-bukkuru-109299354/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="65" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:hemanthbukkuru@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="65" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Open+to+Cloud+%26+DevOps+Collaborations;Building+Multi-Cloud+Engineering+Projects;Always+Learning+New+Technologies" />
+
+</div>
+
+---
 
