@@ -25,34 +25,54 @@
 
 <div align="center">
 
+<a href="https://www.credly.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.credly.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <table>
 <tr>
 
-<td align="center" width="300">
+<td align="center" width="320">
 
-<img src="https://images.credly.com/size/340x340/images/4f5143a2-8f37-4e3f-9f2e-cf6c5dba6d35/image.png" width="120"/>
-
-<br><br>
-
-<b>AWS Certified Developer – Associate</b>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9ja2d6YWFwM2FocXl4NXdjMjl4bG9mOHQxM2dtMjlwbmM2a2d3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="80"/>
 
 <br>
+
+### AWS Certified Developer – Associate
 
 <sub>DVA-C02</sub>
 
-</td>
-
-<td align="center" width="300">
-
-<img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="120"/>
-
 <br><br>
 
-<b>Google Cloud Certified</b>
+☁️ AWS Development • Serverless • SDKs • CI/CD • Security
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/>
 
 <br>
 
+### Google Cloud Certified
+
 <sub>Associate Cloud Engineer</sub>
+
+<br><br>
+
+🌍 GCP Infrastructure • IAM • Networking • Compute Engine
 
 </td>
 
