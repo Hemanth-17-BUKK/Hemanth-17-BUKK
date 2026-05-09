@@ -23,10 +23,43 @@
 
 ## 🏅 Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="300">
+
+<img src="https://images.credly.com/size/340x340/images/4f5143a2-8f37-4e3f-9f2e-cf6c5dba6d35/image.png" width="120"/>
+
+<br><br>
+
+<b>AWS Certified Developer – Associate</b>
+
+<br>
+
+<sub>DVA-C02</sub>
+
+</td>
+
+<td align="center" width="300">
+
+<img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="120"/>
+
+<br><br>
+
+<b>Google Cloud Certified</b>
+
+<br>
+
+<sub>Associate Cloud Engineer</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
