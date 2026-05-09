@@ -30,27 +30,116 @@
 
 ---
 
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### ☁️ Cloud Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="60"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=gcp" width="60"/><br>
+<b>GCP</b>
+</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ DevOps & Automation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,bash,git,github,linux" />
-</p>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="60"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="60"/><br>
+<b>Kubernetes</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=terraform" width="60"/><br>
+<b>Terraform</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=jenkins" width="60"/><br>
+<b>Jenkins</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bash" width="60"/><br>
+<b>Bash</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="60"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="60"/><br>
+<b>Linux</b>
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 💻 Programming & Scripting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="60"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br>
+<b>Python</b>
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 🚀 GitOps & Container Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-</p>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="60"/><br>
+<b>ArgoCD</b>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
